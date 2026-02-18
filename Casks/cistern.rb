@@ -1,6 +1,6 @@
 cask "cistern" do
   version "1.5"
-  sha256 "ebd16bea020583cb5d680df5f92535c5e5e4a0f7937c04d34e2bcc241bcbbf68"
+  sha256 "142e95441db9d54b849f705bebb5503dc02909c7e8b402c27ce6e88ce0d73df1"
 
   url "https://github.com/atombender/cistern/releases/download/release-#{version}/Cistern.zip"
   name "Cistern"
