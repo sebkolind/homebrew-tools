@@ -1,5 +1,3 @@
-mkdir -p Casks
-cat > Casks/cistern.rb << 'EOF'
 cask "cistern" do
   version "1.5"
   sha256 "ebd16bea020583cb5d680df5f92535c5e5e4a0f7937c04d34e2bcc241bcbbf68"
@@ -18,4 +16,3 @@ cask "cistern" do
     "~/Library/Logs/Cistern",
   ]
 end
-EOF
